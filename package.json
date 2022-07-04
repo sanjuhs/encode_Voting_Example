@@ -1,0 +1,11 @@
+{
+  "name": "04-tests-scripts-master",
+  "version": "1.0.0",
+  "description": "* More on Ether.js functions and utilities * Bytes32 and Strings conversion * Helper functions inside test scripts * Unit tests structure and nested tests ### Code reference for tests <pre><code>import { expect } from \"chai\"; import { ethers } from \"hardhat\"; // eslint-disable-next-line node/no-missing-import import { Ballot } from \"../../typechain\";",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
